@@ -36,7 +36,7 @@ li{
 }
 
 .content{
-    height: 500px;
+    height:1100px;
     width:70%;
     background-color: #d0d0d0;
     margin:0;
@@ -59,4 +59,19 @@ p{
 
 .main{
     display: flex;
+}
+
+.blogpost{
+    margin: 10px;
+    background-color: #ffffff;
+    border-color:#BFBBBA;
+    border-radius: 10px;
+    padding: 10px;
+    border-style: solid; 
+}
+img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 0px 15px;
 }
